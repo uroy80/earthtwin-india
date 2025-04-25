@@ -72,7 +72,7 @@ export default function VideoPlayer() {
       <div className="relative w-full h-full">
         <iframe
           className="absolute top-0 left-0 w-full h-full"
-          src="https://www.youtube.com/embed/lK3oqU2WNY0?autoplay=1&mute=1&rel=0"
+          src="https://drive.google.com/file/d/122cW9FrCiFBa4qg7Ud2EkDyCEVUO4w7f/view?usp=drivesdk"
           title="Introduction to Indian Cultural Heritage"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
